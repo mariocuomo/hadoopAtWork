@@ -11,12 +11,19 @@ Il file di input segue il seguente schema
 | a | 2  
 | d | 33 
 | e | 1 
-| a | 1
-| ... | ... 
-| s | 26
+| a | 4
+| s | 1 
+| a | 3 
 
+Si vogliono recuperare tutte le righe del file che iniziano con la lettera 'a' e hanno associato un intero pari.<br>
+L'output del sistema sarà il seguente
 
-Si vogliono recuperare tutte le righe del file che iniziano con la lettera 'a' e hanno associato un intero pari.
+| CARATTERE | NUMERO INTERO  
+| :---: | :---: |
+| a | 2  
+| a | 4 
+
+--- 
 
 Si applica il _Filter Pattern_.
 
