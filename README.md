@@ -11,7 +11,7 @@ Qualche test (_in costruzione_ 👷‍♂️) nell'utilizzo di [_hadoop_](https:
 	- Filtering Pattern
 	- Summatization Pattern
 	- Join Pattern
-	- Sortin Pattern
+	- Sorting Pattern
 	- Top-k Pattern
 	- Distinct Pattern
 
