@@ -7,7 +7,7 @@ Qualche test (_in costruzione_ 👷‍♂️) nell'utilizzo di [_hadoop_](https:
 
 **Hadoop 1.x**
 - Distributed File System (DFS)
-- Map-Reduce paradigma
+- paradigma Map-Reduce
 	- Filtering Pattern
 	- Summatization Pattern
 	- Join Pattern
