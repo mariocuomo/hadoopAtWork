@@ -8,7 +8,7 @@ Qualche test (_in costruzione_ 👷‍♂️) nell'utilizzo di [_hadoop_](https:
 **Hadoop 1.x**
 - Distributed File System (DFS)
 - paradigma Map-Reduce
-	- Filtering Pattern
+	- [Filtering Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/filter)
 	- Summatization Pattern
 	- Join Pattern
 	- Sorting Pattern
