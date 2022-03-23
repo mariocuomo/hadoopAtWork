@@ -4,7 +4,7 @@
 L'operazione di filtro permette di filtrare il contenuto in input al sistema.<br>
 In questo esempio si utilizza un file di ingresso composto da **n** righe e si produce un file di output di **m** (con m minore o uguale di n) righe.
 
-Il file di input segue il seguente schema
+Il file di input segue il seguente schema.
 
 | CARATTERE | NUMERO INTERO  
 | :---: | :---: |
@@ -16,7 +16,7 @@ Il file di input segue il seguente schema
 | a | 3 
 
 Si vogliono recuperare tutte le righe del file che iniziano con la lettera 'a' e hanno associato un intero pari.<br>
-L'output del sistema sarà il seguente
+L'output del sistema sarà il seguente.
 
 | CARATTERE | NUMERO INTERO  
 | :---: | :---: |
