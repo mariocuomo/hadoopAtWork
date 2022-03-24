@@ -10,7 +10,7 @@ Qualche test (_in costruzione_ 👷‍♂️) nell'utilizzo di [_hadoop_](https:
 - paradigma Map-Reduce
 	- [Filtering Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/filter)
 	- [Summatization Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/summatization)
-	- Join Pattern
+	- [Join Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/join)
 	- [Sorting Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/sorting)
 	- Top-k Pattern
 	- [Distinct Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/distint)
