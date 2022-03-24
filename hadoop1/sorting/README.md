@@ -16,7 +16,7 @@ Il file di input segue il seguente schema.
 | a | 3 
 | s | 22 
 
-Si vuole ordinare le righe in maniera crescente sulla base del numero intero associato.
+Si vuole ordinare le righe in maniera crescente sulla base del numero intero associato.<br>
 L'output del sistema sarà il seguente.
 
 | CARATTERE | NUMERO INTERO  
