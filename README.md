@@ -12,7 +12,7 @@ Qualche test (_in costruzione_ 👷‍♂️) nell'utilizzo di [_hadoop_](https:
 	- [Summatization Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/summarization)
 	- [Join Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/join)
 	- [Sorting Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/sorting)
-	- Top-k Pattern
+	- [Top-k Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/top-k)
 	- [Distinct Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/distint)
 
 **Hadoop 2.x**
