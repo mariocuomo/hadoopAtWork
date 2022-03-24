@@ -4,13 +4,12 @@
 import sys
 
 for line in sys.stdin:
+
 	line = line.strip()
 
 	words = line.split(" ")
 
-	numero=int(words[2])
-	lettera=words[1]
+	lettera=words[0]
+	numero=int(words[1])
 
 	print('%s %i' % (lettera,numero))
-
-
