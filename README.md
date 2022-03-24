@@ -9,7 +9,7 @@ Qualche test (_in costruzione_ 👷‍♂️) nell'utilizzo di [_hadoop_](https:
 - Distributed File System (DFS)
 - paradigma Map-Reduce
 	- [Filtering Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/filter)
-	- Summatization Pattern
+	- [Summatization Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/summatization)
 	- Join Pattern
 	- Sorting Pattern
 	- Top-k Pattern
