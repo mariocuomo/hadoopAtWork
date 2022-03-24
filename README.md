@@ -11,7 +11,7 @@ Qualche test (_in costruzione_ 👷‍♂️) nell'utilizzo di [_hadoop_](https:
 	- [Filtering Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/filter)
 	- [Summatization Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/summatization)
 	- Join Pattern
-	- Sorting Pattern
+	- [Sorting Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/sorting)
 	- Top-k Pattern
 	- Distinct Pattern
 
