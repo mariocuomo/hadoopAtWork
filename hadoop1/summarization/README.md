@@ -16,7 +16,7 @@ Il file di input segue il seguente schema.
 | a | 3 
 | s | 22 
 
-Si vuole avere una informazione riguardo al numero totale di righe per ogni carattere
+Si vuole avere una informazione riguardo al numero totale di righe per ogni carattere.<br>
 L'output del sistema sarà il seguente.
 
 | CARATTERE | NUMERO INTERO  
