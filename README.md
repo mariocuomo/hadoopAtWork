@@ -13,7 +13,7 @@ Qualche test (_in costruzione_ 👷‍♂️) nell'utilizzo di [_hadoop_](https:
 	- [Join Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/join)
 	- [Sorting Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/sorting)
 	- [Top-k Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/top-k)
-	- [Distinct Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/distint)
+	- [Distinct Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/distinct)
 
 **Hadoop 2.x**
 - Hive
