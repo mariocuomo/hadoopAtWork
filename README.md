@@ -7,7 +7,7 @@ Qualche test (_in costruzione_ 👷‍♂️) nell'utilizzo di [_hadoop_](https:
 
 **Hadoop 1.x**
 - Distributed File System (DFS)
-- paradigma Map-Reduce
+- Paradigma Map-Reduce
 	- [Filtering Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/filter)
 	- [Summatization Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/summarization)
 	- [Join Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/join)
@@ -17,7 +17,7 @@ Qualche test (_in costruzione_ 👷‍♂️) nell'utilizzo di [_hadoop_](https:
 
 **Hadoop 2.x**
 - Hive
-	- HiveQL 
+	- [HiveQL](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop2/hive/HiveQL)
 
 
 
