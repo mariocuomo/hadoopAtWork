@@ -18,7 +18,7 @@ I campi sono separati dal simbolo di tabulazione.
 Si vuole restituire in output il numero di sfide per ogni colore.
 L'output del sistema sarà il seguente.
 
-| COLORE | SFIDE COMPLETATW
+| COLORE | SFIDE COMPLETATE
 | :---: | :---: |
 | green | 15
 | orange | 21
