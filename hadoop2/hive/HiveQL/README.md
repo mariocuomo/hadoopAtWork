@@ -24,8 +24,7 @@ L'output del sistema sarà il seguente.
 | orange | 21
 
 --- 
-
-`
+```
 CREATE TABLE info (nome STRING, colore STRING)
 ROW FORMAT DELIMITED
 FIELDS TERMINATED BY '\t';
@@ -45,4 +44,4 @@ SELECT * FROM color_counts ORDER BY sfide_completate;
 
 DROP TABLE info;
 DROP TABLE color_counts;
-`
+```
