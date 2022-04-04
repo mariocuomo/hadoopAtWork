@@ -3,8 +3,9 @@
 
 L'idea di base di hive è quella di nascondere al programmatore l'utilizzo di map-reduce fornendogli un linguaggio SQL-like.
 
-In questo esempio si ha a disposizione un file.txt che ha la seguente forma e in cui i campi sono separati dal simbolo di tabulazione.
- 
+In questo esempio si ha a disposizione un file.txt che ha la seguente forma e in cui i campi sono separati dal simbolo di tabulazione.<br>
+I dati sono stati acquisti da <a href="https://github.com/mariocuomo/LeetCode/blob/main/README.md">qui</a>.
+
 | NOME SFIDA | COLORE
 | :---: | :---: |
 | Palindrome Number | green
@@ -35,7 +36,6 @@ CREATE TABLE color_counts AS
 SELECT colore, count(*) as sfide_completate
 FROM info
 GROUP BY colore;
-
 
 SELECT * FROM color_counts ORDER BY sfide_completate;
 
