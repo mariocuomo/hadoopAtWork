@@ -1,0 +1,79 @@
+Palindrome Number	green
+Plus One	green
+Valid Anagram	green
+Same Tree	green
+Count Good Nodes in Binary Tree	orange
+Reverse Integer	orange
+Sum Of Left Leaves	green
+Delete the Middle Node of a Linked List	orange
+Find the Duplicate Number	orange
+Find All Numbers Disappeared in an Array	green
+Find the Difference	green
+Find Numbers with Even Number of Digits	green
+Delete Node in a Linked List	green
+Remove Nth Node From End of List	orange
+Search in a Binary Search Tree	green
+Binary Tree Preorder Traversal	green
+Counting Bits	green
+Convert Binary Number in a Linked List to Integer	green
+Add Two Numbers	orange
+Palindrome Linked List	green
+Reverse Bits	green
+Power of Two	green
+Add One Row to Tree	orange
+Validate Binary Search Tree	orange
+Not Boring Movies	green
+Valid Phone Numbers	green
+Rotate List	orange
+Merge Two Sorted Lists	green
+Sort List	orange
+Invert Binary Tree	green
+Binary Number with Alternating Bits	green
+Number of 1 Bits	green
+Leaf-Similar Trees	green
+N-ary Tree Preorder Traversal	green
+Partition List	orange
+Min Stack	green
+Find Elements in a Contaminated Binary Tree	orange
+Two Out of Three	green
+Binary Tree Right Side View	orange
+Reverse Linked List	green
+Check if Numbers Are Ascending in a Sentence	green
+Rotate Array	orange
+Big Countries	green
+Kth Smallest Element in a BST	orange
+Convert 1D Array Into 2D Array	green
+Delete Node in a Linked List	green
+Power of Three	green
+Design Linked List	orange
+Maximum Depth of Binary Tree	green
+Balanced Binary Tree	green
+Univalued Binary Tree	green
+Reverse String	green
+First Unique Character in a String	green
+Linked List Cycle	green
+Lowest Common Ancestor of a Binary Search Tree	orange
+Missing Number	green
+Linked List Cycle II	orange
+Ransom Note	green
+Integer Replacement	green
+Arranging Coins	green
+Find Smallest Letter Greater Than Target	green
+Sort Colors	orange
+Maximum Binary Tree	orange
+Path Sum	green
+Contains Duplicate	green
+Add Digits	green
+Letter Combinations of a Phone Number	orange
+Minimum Distance Between BST Nodes	green
+Intersection of Two Arrays	green
+Number Complement	green
+Intersection of Two Arrays II	green
+Add Two Numbers II	orange
+Smallest Index With Equal Value	green
+Maximum Number of Balloons	green
+Combine Two Tables	green
+Convert Sorted Array to Binary Search Tree	green
+Set Mismatch	green
+Merge Nodes in Between Zeros	orange
+Majority Element II	orange

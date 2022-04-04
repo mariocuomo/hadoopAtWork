@@ -16,6 +16,12 @@ Qualche test (_in costruzione_ 👷‍♂️) nell'utilizzo di [_hadoop_](https:
 	- [Distinct Pattern](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop1/distint)
 
 **Hadoop 2.x**
+- Hive
+	- HiveQL 
+
+
+
+
 [**...**]
 
 
