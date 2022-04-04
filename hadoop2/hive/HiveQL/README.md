@@ -3,19 +3,16 @@
 
 L'idea di base di hive è quella di nascondere al programmatore l'utilizzo di map-reduce fornendogli un linguaggio SQL-like.
 
-In questo esempio si ha a disposizione un file.txt che ha la seguente forma
+In questo esempio si ha a disposizione un file.txt che ha la seguente forma e in cui i campi sono separati dal simbolo di tabulazione.
  
-
 | NOME SFIDA | COLORE
 | :---: | :---: |
 | Palindrome Number | green
 | Plus One | green
 | Valid Anagram | orange
 
-I campi sono separati dal simbolo di tabulazione.
 
-
-Si vuole restituire in output il numero di sfide per ogni colore.
+Si vuole restituire in output il numero di sfide per ogni colore.<br>
 L'output del sistema sarà il seguente.
 
 | COLORE | SFIDE COMPLETATE
