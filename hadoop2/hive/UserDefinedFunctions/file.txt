@@ -1,0 +1,82 @@
+Palindrome Number	12.03.2022
+Plus One	12.03.2022
+Valid Anagram	13.03.2022
+Same Tree	13.03.2022
+Count Good Nodes in Binary Tree	13.03.2022
+Reverse Integer	14.03.2022
+Sum Of Left Leaves	14.03.2022
+Delete the Middle Node of a Linked List	14.03.2022
+Find the Duplicate Number	15.03.2022
+Find All Numbers Disappeared in an Array	15.03.2022
+Find the Difference	15.03.2022
+Find Numbers with Even Number of Digits	16.03.2022
+Delete Node in a Linked List	16.03.2022
+Remove Nth Node From End of List	16.03.2022
+Search in a Binary Search Tree	16.03.2022
+Binary Tree Preorder Traversal	17.03.2022
+Counting Bits	17.03.2022
+Convert Binary Number in a Linked List to Integer	17.03.2022
+Add Two Numbers	18.03.2022
+Palindrome Linked List	18.03.2022
+Reverse Bits	18.03.2022
+Power of Two	19.03.2022
+Add One Row to Tree	19.03.2022
+Validate Binary Search Tree	19.03.2022
+Not Boring Movies	19.03.2022
+Valid Phone Numbers	19.03.2022
+Rotate List	19.03.2022
+Merge Two Sorted Lists	20.03.2022
+Sort List	20.03.2022
+Invert Binary Tree	21.03.2022
+Binary Number with Alternating Bits	21.03.2022
+Number of 1 Bits	21.03.2022
+Leaf-Similar Trees	21.03.2022
+N-ary Tree Preorder Traversal	22.03.2022
+Partition List	22.03.2022
+Min Stack	22.03.2022
+Find Elements in a Contaminated Binary Tree	22.03.2022
+Two Out of Three	23.03.2022
+Binary Tree Right Side View	23.03.2022
+Reverse Linked List	24.03.2022
+Check if Numbers Are Ascending in a Sentence	24.03.2022
+Rotate Array	25.03.2022
+Big Countries	25.03.2022
+Kth Smallest Element in a BST	26.03.2022
+Convert 1D Array Into 2D Array	26.03.2022
+Delete Node in a Linked List	26.03.2022
+Power of Three	27.03.2022
+Design Linked List	27.03.2022
+Maximum Depth of Binary Tree	27.03.2022
+Balanced Binary Tree	27.03.2022
+Univalued Binary Tree	27.03.2022
+Reverse String	28.03.2022
+First Unique Character in a String	28.03.2022
+Linked List Cycle	28.03.2022
+Lowest Common Ancestor of a Binary Search Tree	29.03.2022
+Missing Number	29.03.2022
+Linked List Cycle II	29.03.2022
+Ransom Note	29.03.2022
+Integer Replacement	30.03.2022
+Arranging Coins	30.03.2022
+Find Smallest Letter Greater Than Target	31.03.2022
+Sort Colors	31.03.2022
+Maximum Binary Tree	31.03.2022
+Path Sum	31.03.2022
+Contains Duplicate	31.03.2022
+Add Digits	01.04.2022
+Letter Combinations of a Phone Number	01.04.2022
+Minimum Distance Between BST Nodes	01.04.2022
+Intersection of Two Arrays	01.04.2022
+Number Complement	02.04.2022
+Intersection of Two Arrays II	02.04.2022
+Add Two Numbers II	02.04.2022
+Smallest Index With Equal Value	02.04.2022
+Maximum Number of Balloons	02.04.2022
+Combine Two Tables	03.04.2022
+Convert Sorted Array to Binary Search Tree	03.04.2022
+Set Mismatch	04.04.2022
+Merge Nodes in Between Zeros	04.04.2022
+Majority Element II	04.04.2022
+Average of Levels in Binary Tree	05.04.2022
+Number of Provinces	05.04.2022
+Implement Queue using Stacks	05.04.2022
