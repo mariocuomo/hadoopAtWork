@@ -3,7 +3,7 @@
 
 L'idea di base di hive è quella di nascondere al programmatore l'utilizzo di map-reduce fornendogli un linguaggio SQL-like.
 
-In questo esempio si mostra come utilizzare le Partitioned Table<br>
+In questo esempio si mostra come utilizzare le Partitioned Table.<br>
 Si ha a disposizione un file.txt che ha la seguente forma e in cui i campi sono separati dal simbolo di tabulazione.<br>
 
 | NUMERO | LETTERA
@@ -13,7 +13,7 @@ Si ha a disposizione un file.txt che ha la seguente forma e in cui i campi sono 
 | 6 | r
 
 
-Si vuole restituire in output la somma dei numeri associati a ogni lettera<br>
+Si vuole restituire in output la somma dei numeri associati a ogni lettera.<br>
 L'output del sistema sarà il seguente.
 
 | LETTERA | SOMMA
@@ -28,7 +28,7 @@ Questo permette in fase di aggregazione di velocizzare il meccanismo di somma.<b
 
 
 SENZA PARTITION: 6.074 seconds<br>
-CON PARTITION: **4.695**
+CON PARTITION: **4.695** seconds
 
 
 --- 
