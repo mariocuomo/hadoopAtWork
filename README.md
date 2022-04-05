@@ -19,6 +19,7 @@ Qualche test (_in costruzione_ 👷‍♂️) nell'utilizzo di [_hadoop_](https:
 - Hive
 	- [HiveQL](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop2/hive/HiveQL)
 	- [User Defined Functions](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop2/hive/UserDefinedFunctions)
+	- [Partition Table](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop2/hive/PartitionedTable)
 
 
 
