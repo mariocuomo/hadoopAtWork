@@ -22,7 +22,7 @@ L'output del sistema sarà il seguente.
 | orange | 21
 
 --- 
-```
+```HQL
 CREATE TABLE info (nome STRING, colore STRING)
 ROW FORMAT DELIMITED
 FIELDS TERMINATED BY '\t';
