@@ -22,13 +22,13 @@ L'output del sistema sarà il seguente.
 | b | 325
 
 
-Si utilizza una Partitioned Table partizionata sul valore della lettera.
-I record relativi alla stessa lettera sono salvati in stessi file.
-Questo permette in fase di aggregazione di velocizzare il meccanismo di somma.
+Si utilizza una Partitioned Table partizionata sul valore della lettera.<br>
+I record relativi alla stessa lettera sono salvati in stessi file.<br>
+Questo permette in fase di aggregazione di velocizzare il meccanismo di somma.<br>
 
 
-SENZA PARTITION: 6.074 seconds
-**CON PARTITION: 4.695**
+SENZA PARTITION: 6.074 seconds<br>
+CON PARTITION: **4.695**
 
 
 --- 
