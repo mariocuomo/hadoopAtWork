@@ -25,7 +25,7 @@ L'output del sistema sarà il seguente.
 La conversione da data in formato stringa a nome del giono avviene in una user defined function.
 
 --- 
-```
+```HQL
 CREATE TABLE info (nome STRING, data STRING)
 ROW FORMAT DELIMITED
 FIELDS TERMINATED BY '\t';
