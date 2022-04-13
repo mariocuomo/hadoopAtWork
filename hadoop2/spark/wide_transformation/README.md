@@ -17,13 +17,13 @@ Si vuole restituire in output le migliori k sfide in termini di memoria e le mig
 L'output del sistema sarà il seguente.
 
 ```
-MIGLIORI SFIDA PER VELOCITA
+MIGLIORI SFIDE PER VELOCITA
 Number Complement, velocita:  99.49
 Rotate Array, velocita:  98.04
 Add Two Numbers, velocita:  97.66
 
 
-MIGLIORI SFIDA PER MEMORIA
+MIGLIORI SFIDE PER MEMORIA
 Peak Index in a Mountain Array, memoria:  99.13
 Missing Number, memoria:  98.85
 Maximum Depth of Binary Tree, memoria:  97.53
