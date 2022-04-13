@@ -1,0 +1,99 @@
+Two Sum	20.76	95.00
+Palindrome Number	62.02	0
+Plus One	57.59	16.78
+Valid Anagram	29.79	89.03
+Same Tree	91.55	66.11
+Count Good Nodes in Binary Tree	40.75	7.14
+Reverse Integer	37.31	37.07
+Sum Of Left Leaves	78.23	16.67
+Delete the Middle Node of a Linked List	58.3	49.10
+Find the Duplicate Number	39.23	57.20
+Find All Numbers Disappeared in an Array	70.72	18.79
+Find the Difference	74.23	18.05
+Find Numbers with Even Number of Digits	73.37	26.68
+Delete Node in a Linked List	18.93	81.92
+Remove Nth Node From End of List	58.97	43.18
+Search in a Binary Search Tree	59.62	0
+Binary Tree Preorder Traversal	28.79	65.44
+Counting Bits	14.41	75.25
+Convert Binary Number in a Linked List to Integer	25.80	0
+Add Two Numbers	97.66	43.21
+Palindrome Linked List	76.76	39.65
+Reverse Bits	36.84	0
+Power of Two	60.81	97.52
+Add One Row to Tree	80.00	31.48
+Validate Binary Search Tree	73.42	10.21
+Not Boring Movies	49.19	100
+Valid Phone Numbers	34.40	9.45
+Rotate List	78.91	83.11
+Merge Two Sorted Lists	20.26	83.84
+Sort List	73.71	17.81
+Invert Binary Tree	62.67	49.40
+Binary Number with Alternating Bits	47.87	15.5
+Number of 1 Bits	17.96	62.59
+Leaf-Similar Trees	90.63	56.19
+N-ary Tree Preorder Traversal	71.37	38.85
+Partition List	19.35	85.00
+Min Stack	32.81	48.09
+Find Elements in a Contaminated Binary Tree	0	94.83
+Two Out of Three	86.50	94.42
+Binary Tree Right Side View	16.40	54.38
+Reverse Linked List	48.74	92.13
+Check if Numbers Are Ascending in a Sentence	90.80	78.16
+Rotate Array	98.04	0
+Big Countries	25.25	100
+Kth Smallest Element in a BST	75.75	29.06
+Convert 1D Array Into 2D Array	83.44	77.50
+Delete Node in a Linked List	51.64	95.91
+Power of Three	46.18	90.74
+Design Linked List	15.30	90.86
+Maximum Depth of Binary Tree	71.67	97.53
+Balanced Binary Tree	55.96	95.12
+Univalued Binary Tree	95.50	81.98
+Reverse String	71.95	53.00
+First Unique Character in a String	64.76	17.07
+Linked List Cycle	55.98	15.49
+Lowest Common Ancestor of a Binary Search Tree	53.23	25.60
+Missing Number	47.74	98.85
+Linked List Cycle II	68.70	11.40
+Ransom Note	63.75	79.74
+Integer Replacement	37.50	75.96
+Arranging Coins	26.03	95.88
+Find Smallest Letter Greater Than Target	89.16	15.83
+Sort Colors	47.95	67.41
+Maximum Binary Tree	44.07	93.62
+Path Sum	77.79	87.96
+Contains Duplicate	94.06	42.99
+Add Digits	95.04	64.11
+Letter Combinations of a Phone Number	73.37	39.09
+Minimum Distance Between BST Nodes	82.88	19.18
+Intersection of Two Arrays	22.92	82.66
+Number Complement	99.49	12.82
+Intersection of Two Arrays II	91.88	14.10
+Add Two Numbers II	74.88	7.56
+Smallest Index With Equal Value	41.38	88.97
+Maximum Number of Balloons	86.73	77.25
+Combine Two Tables	94.34	100.00
+Convert Sorted Array to Binary Search Tree	41.20	90.51
+Set Mismatch	81.71	56.10
+Merge Nodes in Between Zeros	62.26	49.42
+Majority Element II	82.83	44.65
+Average of Levels in Binary Tree	5.16	27.58
+Number of Provinces	73.28	65.29
+Implement Queue using Stacks	76.35	83.09
+Contains Duplicate II	55.95	6.33
+N-ary Tree Postorder Traversal	89.75	15.22
+Top K Frequent Elements	96.33	72.36
+Sort Characters By Frequency	88.14	46.33
+Linked List Random Node	59.43	33.96
+Binary Tree Inorder Traversal	74.11	47.53
+Count Complete Tree Nodes	71.24	30.90
+Valid Perfect Square	88.81	60.00
+Binary Tree Paths	85.61	26.20
+License Key Formatting	59.49	18.48
+Hamming Distance	85.99	9.62
+Find Bottom Left Tree Value	51.13	30.77
+Maximum Level Sum of a Binary Tree	5.59	71.33
+Insert Delete GetRandom O(1)	36.93	20.34
+Peak Index in a Mountain Array	30.41	99.13
+Find Pivot Index	63.26	68.58
