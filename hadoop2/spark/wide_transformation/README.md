@@ -7,7 +7,7 @@ In questo esempio si ha a disposizione un file.txt che ha la seguente forma e in
 I dati sono stati acquisti da <a href="https://github.com/mariocuomo/LeetCode/blob/main/README.md">qui</a>.
 
 | NOME SFIDA | VELOCITA | MEMORIA 
-| :---: | :---: |
+| :---: | :---: | :---: 
 | Palindrome Number | 38 | 92
 | Plus One | 23 | 82
 | Valid Anagram | 71 | 43
