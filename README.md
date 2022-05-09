@@ -28,4 +28,7 @@ Qualche test (_in costruzione_ 👷‍♂️) nell'utilizzo di [_hadoop_](https:
 
 [**...**]
 
+---
+Repository collegato al corso di Big Data - @Università degli Studi Roma Tre
+
 
