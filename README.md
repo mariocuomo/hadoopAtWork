@@ -24,6 +24,8 @@ Qualche test (_in costruzione_ 👷‍♂️) nell'utilizzo di [_hadoop_](https:
 	- [Narrow Transformation](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop2/spark/narrow_transformation)
 	- [Wide Transformation](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop2/spark/wide_transformation)
 
+**PROGETTO 1 - CORSO BIG DATA** <br>
+Realizzazione di [jobs](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop2/progetto1) nell’ecosistema Hadoop utilizzando MapReduce, Hive e Spark.
 
 
 [**...**]
