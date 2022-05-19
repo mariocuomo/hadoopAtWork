@@ -14,3 +14,8 @@ e i prodotti recensiti che condividono. Il risultato deve essere ordinato in bas
 elemento della coppia e non deve presentare duplicati
 
 
+<div align="center">
+  <img src="https://github.com/mariocuomo/hadoopAtWork/blob/main/progetto1/resources/word%20cloud.JPG">
+</div>
+
+
