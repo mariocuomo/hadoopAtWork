@@ -28,7 +28,8 @@ Qualche test (_in costruzione_ 👷‍♂️) nell'utilizzo di [_hadoop_](https:
 Realizzazione di [jobs](https://github.com/mariocuomo/hadoopAtWork/tree/main/hadoop2/progetto1) nell’ecosistema Hadoop utilizzando MapReduce, Hive e Spark.
 
 
-[**...**]
+**PROGETTO 2 - CORSO BIG DATA** <br>
+Studio dei [sistemi poliglotti](https://github.com/mariocuomo/consistence-polyglot).
 
 ---
 Repository collegato al corso di Big Data - @Università degli Studi Roma Tre
